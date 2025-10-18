@@ -42,20 +42,14 @@ This will be your shared class repo!
 
 ### 🏫 Link to the Class Zoom Room
 
-[Link to join the class Zoom Room](https://generalassembly.zoom.us/j/99113074737?pwd=ZWpcxYA1HHlRHhMTTp7PNbSasFZNvH.1)
+[Link to join the class Zoom Room](https://generalassembly.zoom.us/j/92629677628?pwd=9QwLbpYprlcIkWqtaAaS9kXWmT6Og5.1)
 
 ### 🧑‍🏫 Instructional Team Contact Information
 
 | Role                           | Name              | Email                              |
 | :----------------------------- | :---------------- | :--------------------------------- |
-| Senior Instructional Associate | Raul Jiminian     | raul.jiminian@generalassemb.ly     |
-| Senior Instructional Associate | Stephanie Lee     | stephanie.lee@generalassemb.ly     |
-| Senior Instructional Associate | Megan Hawkins     | megan.hawkins@generalassemb.ly     |
-| Senior Instructional Associate | Keith Baskerville | keith.baskerville@generalassemb.ly |
-| Instructional Associate        | Ian Terada        | ian.terada@generalassemb.ly        |
-| Instructional Associate        | Asti Shalymova    | asti.shalymova@generalassemb.ly    |
-| Instructional Associate        | Aisha Cannon      | aisha.cannon@generalassemb.ly      |
-| Instructional Associate        | Megan Barber      | megan.barber@generalassemb.ly      |
+| SEB Lead Instructor | Ben Manning  | ben.manning@generalassemb.ly     |
+
 
 ### 📝 Additional Coding Practice Resources (optional)
 
